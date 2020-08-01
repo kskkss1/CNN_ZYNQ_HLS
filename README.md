@@ -27,12 +27,10 @@ Vivado 2018.3、Vivado HLS 2018.3、Vivado SDK 2018.3、Putty 0.74.
     <img src ="./images/1.png">
     </p>
     <p align = "center">
-    <i>Getting Started view of Vivado-HLS</i>
     </p>
 	<p align="center">
     <img src ="./images/2.png">
     </p>
     <p align = "center">
-    <i>Getting Started view of Vivado-HLS</i>
     </p>
 
