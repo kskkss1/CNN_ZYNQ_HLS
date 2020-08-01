@@ -24,12 +24,12 @@ Vivado 2018.3、Vivado HLS 2018.3、Vivado SDK 2018.3、Putty 0.74.
 
 6.Photos of works：
     <p align="center">
-    <img src ="./images/1.png">
+    <img src ="CNN_ZYNQ_HLS/images/1.png">
     </p>
     <p align = "center">
     </p>
 	<p align="center">
-    <img src ="./images/2.png">
+    <img src ="CNN_ZYNQ_HLS/images/2.png">
     </p>
     <p align = "center">
     </p>
